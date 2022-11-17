@@ -1,4 +1,3 @@
-# Allan-Ngugi
 [![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://allanngugi.io)
 <h1 align="center">Hi 👋, I'm Allan Ngugi</h1>
 <h3 align="center">A passionate fullstack developer from Kenya.</h3>
