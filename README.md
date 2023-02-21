@@ -5,15 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allan-ngugi&label=Profile%20views&color=0e75b6&style=flat" alt="allan-ngugi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@allan_blessed_" target="blank"><img src="https://img.shields.io/twitter/follow/@allan_blessed_?logo=twitter&style=for-the-badge" alt="@allan_blessed_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@allan_blessed_" target="blank"><img src="https://img.shields.io/twitter/follow/@allan_blessed_?logo=twitter&style=for-the-badge" alt="allan_blessed_" /></a> </p>
 
-- 🔭 I’m currently working on **Projects**
+- 🔭 I’m currently working on **Opensource**
 
-- 🌱 I’m currently learning **Photoshop,aws**
+- ** Ready for Employment**
+
+- 🌱 I’m currently learning **TypeScript,Kotlin**
 
 - 👯 I’m looking to collaborate on **Fullstack web development**
 
-- 💬 Ask me about **Vanilla Javascript,React,Ruby,Ruby on Rails,SQL,HTML,CSS**
+- 💬 Ask me about **Vanilla Javascript,React,Angular,Ruby,Ruby on Rails,SQL,HTML,CSS**
 
 - 📫 How to reach me **blessedallan1@gmail.com**
 
