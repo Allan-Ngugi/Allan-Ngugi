@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/@allan_blessed_" target="blank"><img src="https://img.shields.io/twitter/follow/@allan_blessed_?logo=twitter&style=for-the-badge" alt="allan_blessed_" /></a> </p>
 
-- 🔭 I’m currently working on **Opensource**
+- 🔭 I’m currently working on **Elewa**
 
 - ** Ready for Employment**
 
-- 🌱 I’m currently learning **TypeScript,Kotlin**
+- 🌱 I’m currently learning **CyberSecurity**
 
 - 👯 I’m looking to collaborate on **Fullstack web development**
 
