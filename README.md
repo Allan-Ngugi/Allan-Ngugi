@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Fullstack web development**
 
-- 💬 Ask me about **Vanilla Javascript,React,Angular,Ruby,Ruby on Rails,SQL,HTML,CSS**
+- 💬 Ask me about **Vanilla Javascript,TypeScript,React,Angular,Ruby,Ruby on Rails,SQL,Firebase,HTML,CSS**
 
 - 📫 How to reach me **blessedallan1@gmail.com**
 
