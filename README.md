@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@allan_blessed_" target="blank"><img src="https://img.shields.io/twitter/follow/@allan_blessed_?logo=twitter&style=for-the-badge" alt="allan_blessed_" /></a> </p>
 
-- 🔭 I’m currently working on **Elewa**
+- 🔭 I’m currently working on **Personal Projects & Open Source projects**
 
 - ** Ready for Employment**
 
